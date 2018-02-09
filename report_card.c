@@ -2,6 +2,6 @@
 
 int main()
 {
-	printf("This program print report card.\n");
+	printf("This program print report card. leekilae\n");
 	return 0;
 }
